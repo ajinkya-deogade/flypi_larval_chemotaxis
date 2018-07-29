@@ -18,7 +18,7 @@ File structure:
     FlyPi_Setup_3DprintsCompartments.pdf
     TrackingSoftware_ezTrack.pdf
 
-## Softwares
+## Software
 ### EzTrack -- Matlab code for the extracting larvae position and tracks
     README.md
     circle.m
