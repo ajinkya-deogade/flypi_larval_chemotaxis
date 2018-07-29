@@ -2,9 +2,8 @@
 Adapted version of the FlyPi for Tracking Larval Chemotaxis
 
 Original FlyPi developed by https://github.com/amchagas/Flypi
-Modified by Ajinkya Deogade (ajideo05_at_gmail.com) and Daeyeon Kim (daeyeon.kim_at_crg.eu)
 
-File structure:
+Modified by Ajinkya Deogade (ajideo05_at_gmail.com) and Daeyeon Kim (daeyeon.kim_at_crg.eu)
 
 ## 3DPrintDesigns - All the 3D print designs
     Base.stl
