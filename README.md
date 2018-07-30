@@ -5,7 +5,7 @@ Original FlyPi developed by https://github.com/amchagas/Flypi
 
 Modified by Ajinkya Deogade (ajideo05_at_gmail.com) and Daeyeon Kim (daeyeon.kim_at_crg.eu)
 
-## 3DPrintDesigns - All the 3D print designs
+## 3D print designs (3d_print) - All the 3D print designs (stl format)
     Base.stl
     CameraHolder.stl
     OptogeneticLEDHolder.stl
@@ -13,15 +13,15 @@ Modified by Ajinkya Deogade (ajideo05_at_gmail.com) and Daeyeon Kim (daeyeon.kim
     RaspberryPiHolderStand.stl
     ThinStand.stl
 
-## Documentation - Information on how to assemble parts and software usage
+## Documentation (docs) - Information on how to assemble parts and software usage
     FlyPi_Setup_3DprintsCompartments.pdf
     TrackingSoftware_ezTrack.pdf
 
-## Software
-### EzTrack -- Matlab code for the extracting larvae position and tracks
+## Software (source)
+### ezTrack -- Matlab code for the extracting larvae position and tracks
     README.md
     circle.m
     simpletracker_CSHL_2-1.m
 
-### FlyPi_App -- Python code to be used on Raspberry Pi for capturing timelapse movies
+### App -- Python-based GUI application to be used on Raspberry Pi for capturing timelapse movies
     flypiApp_timelapseRecordingCode.py
