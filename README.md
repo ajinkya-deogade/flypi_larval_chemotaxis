@@ -1,6 +1,6 @@
 # FlyPi for Larval Chemotaxis
 
-![Schematic](/docs/FlyPiSchematic.pdf)
+![Schematic](/docs/FlyPiSchematic.png)
 
 Adapted version of the FlyPi for Tracking Larval Chemotaxis
 
