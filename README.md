@@ -1,4 +1,7 @@
 # FlyPi for Larval Chemotaxis
+
+![Schematic](/docs/FlyPiSchematic.pdf)
+
 Adapted version of the FlyPi for Tracking Larval Chemotaxis
 
 Original FlyPi developed by https://github.com/amchagas/Flypi
